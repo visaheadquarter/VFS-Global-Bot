@@ -74,7 +74,13 @@ Yapay zeka destekli, internetten, resmi konsolosluk sitelerinden ve güvenilir k
 vize başvuru sürecinizle ilgili her türlü soruya 7/24 yanıt verip size her adımda danışmanlık sağlayan yazılım hizmetimizdir. @VHQVisaAIBot
 
 
+
+
 ********* Visa Appointment Bot:
 Visa Appointment Bot: 
 Seçmiş olduğunuz ülke ve kategori doğrultusunda, randevu almak için gereken bilgileri bize ilettikten sonra yazılımımız ile sizin adınıza VFS Global'den anlık olarak seçtiğiniz kategorideki 
 randevu durumuna bakılıp,  müsaitlik olduğu anda adınıza randevu alınıp size bilgi verilmektedir.
+
+![ss2](https://github.com/user-attachments/assets/c99783c6-88af-4d51-adc8-4aee1ba4204f)
+![ss1](https://github.com/user-attachments/assets/74f044f8-688b-48e4-b355-451be57debfa)
+
