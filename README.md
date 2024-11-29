@@ -1,3 +1,5 @@
+https://t.me/Visa_HeadQuarter
+
 Visa Headquarter - Visa Services
 
 Hizmet satın alma işlemleri, öneriler ve istekler için DM üzerinden iletişime geçiniz
